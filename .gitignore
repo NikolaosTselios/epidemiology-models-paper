@@ -1,0 +1,5 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.slxc
+slprj/
